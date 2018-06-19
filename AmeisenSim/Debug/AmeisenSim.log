@@ -1,0 +1,5 @@
+﻿  AmeisenSim.cpp
+c:\users\fabio\desktop\ameisensim\ameisensim\ameisensim.cpp(25): warning C4244: "Argument": Konvertierung von "time_t" in "unsigned int", möglicher Datenverlust
+c:\users\fabio\desktop\ameisensim\ameisensim\ameisensim.cpp(32): warning C4101: "m_PosY": Unreferenzierte lokale Variable
+c:\users\fabio\desktop\ameisensim\ameisensim\ameisensim.cpp(31): warning C4101: "m_PosX": Unreferenzierte lokale Variable
+  AmeisenSim.vcxproj -> C:\Users\Fabio\Desktop\AmeisenSim\Debug\AmeisenSim.exe
